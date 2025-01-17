@@ -1,7 +1,7 @@
 .about {
   background-color: #0a2850;
   color: #fff;
-  font-family: Inter Arial, sans-serif;
+  font-family: Inter, Arial, sans-serif;
   padding: 100px 80px 173px;
   display: flex;
   justify-content: space-between;
@@ -25,7 +25,7 @@
   max-width: 660px;
 }
 .about__paragraph {
-  font-family: "Noto Serif" "Times New Roman", serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   margin: 0;

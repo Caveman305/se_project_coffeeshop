@@ -7,11 +7,12 @@
   background-repeat: no-repeat;
   background-size: cover;
   background: url(../images/se_project_2_files/background_menu.svg);
+  background-position: center;
 }
 .menu__title {
   margin: 0 0 24px;
   max-width: 780px;
-  font-family: "Inter";
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -20,9 +21,10 @@
 .menu__subtitle {
   margin: 0 0 100px;
   max-width: 780px;
+  text-align: center;
   display: flex;
   justify-content: center;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
