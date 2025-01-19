@@ -4,7 +4,7 @@
   font-family: Inter, Arial, sans-serif;
   padding: 60px 80px;
 }
-.footer__logo {
+.footer__content {
   display: flex;
   justify-content: space-between;
   width: 105px;
@@ -13,6 +13,7 @@
 
 .footer__column-heading {
   margin: 0 0 20px;
+  font-size: inherit;
 }
 .footer__list {
   margin: 0;
