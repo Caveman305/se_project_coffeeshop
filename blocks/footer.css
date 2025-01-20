@@ -7,8 +7,6 @@
 .footer__content {
   display: flex;
   justify-content: space-between;
-  width: 105px;
-  height: 39px;
 }
 .footer__logo {
   width: 105px;
